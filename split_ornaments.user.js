@@ -3,14 +3,17 @@
 // @name           IITC plugin: Split ornaments and beacons into their own layers
 // @author         Jormund
 // @category       Layer
-// @version        0.1.1.20161122.1430
-// @description    [2016-11-22-1430] Split ornaments and beacons into their own layers
+// @version        0.1.2.20181113.1520
+
+// @description    [2018-11-13-1520] Split ornaments and beacons into their own layers
 // @downloadURL    https://raw.githubusercontent.com/Jormund/split_ornaments/master/split_ornaments.user.js
 // @include        https://ingress.com/intel*
 // @include        http://ingress.com/intel*
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
 // @match          https://*.ingress.com/intel*
+// @match          https://intel.ingress.com/*
+// @include        https://intel.ingress.com/*
 // @match          http://*.ingress.com/intel*
 // @grant          none
 // ==/UserScript==
